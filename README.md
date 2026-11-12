@@ -10,6 +10,15 @@
 
 ---
 
+<!-- BEGIN ACTIVITY-GRAPH -->
+<picture>
+  <source media="(max-width: 767px)" srcset="activity-graph-mobile.svg">
+  <img src="activity-graph.svg" alt="Activity Graph" width="100%">
+</picture>
+<!-- END ACTIVITY-GRAPH -->
+
+---
+
 ## About Me
 
 I'm a software development student interested in building web, desktop and mobile applications.
@@ -26,13 +35,6 @@ I'm a software development student interested in building web, desktop and mobil
 <img src="https://skillicons.dev/icons?i=cs,cpp,java,php,dotnet,js,ts,html,css,react,nodejs,vite,mysql,sqlite,git,github,vscode,visualstudio,androidstudio&perline=7" />
 
 </div>
-
-<!-- BEGIN ACTIVITY-GRAPH -->
-<picture>
-  <source media="(max-width: 767px)" srcset="activity-graph-mobile.svg">
-  <img src="activity-graph.svg" alt="Activity Graph" width="100%">
-</picture>
-<!-- END ACTIVITY-GRAPH -->
 
 ## Projects
 
