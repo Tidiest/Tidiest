@@ -29,6 +29,10 @@ I'm a software development student interested in building web, desktop and mobil
 </div>
 
 <!-- BEGIN ACTIVITY-GRAPH -->
+<picture>
+  <source media="(max-width: 767px)" srcset="activity-graph-mobile.svg">
+  <img src="activity-graph.svg" alt="Activity Graph" width="100%">
+</picture>
 <!-- END ACTIVITY-GRAPH -->
 
 ## Projects
