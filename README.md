@@ -38,14 +38,20 @@ I'm a software development student interested in building web, desktop and mobil
 
 ## Projects
 
+### [Threadly](https://github.com/Tidiest/Threadly)
+A Reddit-inspired forum built with PHP and MySQL, featuring user accounts, communities, posts, comments, moderation tools and more.
+
+`PHP` `MySQL` `HTML` `CSS` `JavaScript` `Bootstrap`
+
+### [DBMS](https://github.com/Tidiest/DBMS)
+A web-based database management system inspired by phpMyAdmin, built with PHP and MySQL. Supports database and table management, SQL execution, user privileges and more.
+
+`PHP` `MySQL` `HTML` `CSS` `JavaScript` `Bootstrap`
+
 ### [ChessAI_v2](https://github.com/Tidiest/ChessAI_v2)
 Chess programming project exploring move generation, search algorithms and position evaluation.
 
 `C++`
-
-### [ProjektRazor](https://github.com/Tidiest/ProjektRazor)
-HTML-based project.
-
 `HTML`
 
 ---
