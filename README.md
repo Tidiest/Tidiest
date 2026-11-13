@@ -38,21 +38,45 @@ I'm a software development student interested in building web, desktop and mobil
 
 ## Projects
 
-### [Threadly](https://github.com/Tidiest/Threadly)
-A Reddit-inspired forum built with PHP and MySQL, featuring user accounts, communities, posts, comments, moderation tools and more.
+### Featured Projects
 
-`PHP` `MySQL` `HTML` `CSS` `JavaScript` `Bootstrap`
+**[Threadly](https://github.com/Tidiest/Threadly)** — A Reddit-inspired forum featuring user accounts, communities, posts, comments and moderation tools.
 
-### [DBMS](https://github.com/Tidiest/DBMS)
-A web-based database management system inspired by phpMyAdmin, built with PHP and MySQL. Supports database and table management, SQL execution, user privileges and more.
+`PHP` `MySQL` `JavaScript` `HTML` `CSS`
 
-`PHP` `MySQL` `HTML` `CSS` `JavaScript` `Bootstrap`
+**[DBMS](https://github.com/Tidiest/DBMS)** — A web-based database management system inspired by phpMyAdmin.
 
-### [ChessAI_v2](https://github.com/Tidiest/ChessAI_v2)
-Chess programming project exploring move generation, search algorithms and position evaluation.
+`PHP` `MySQL` `JavaScript` `HTML` `CSS`
+
+**[ChessAI_v2](https://github.com/Tidiest/ChessAI_v2)** — Chess programming project exploring move generation, search algorithms and position evaluation.
 
 `C++`
-`HTML`
+
+**Kayak Rental** — An ASP.NET Core MVC application for managing kayak inventory and rentals.
+
+`C#` `.NET` `ASP.NET Core MVC` `MySQL`
+
+**GameLibrary API** — A REST API for managing a game library, built with ASP.NET Core Minimal APIs and Entity Framework Core.
+
+`C#` `.NET` `REST API` `Entity Framework Core` `SQLite`
+
+### Additional Projects
+
+**Java RPG** — A console-based RPG featuring character progression, combat, experience and stat management.
+
+`Java` `OOP`
+
+**Pokédex** — An Android application featuring a searchable and filterable Pokédex of the original 151 Pokémon.
+
+`Java` `Android`
+
+**SortowanieTablicy** — A Windows Forms application demonstrating sorting and searching algorithms.
+
+`C#` `.NET` `Windows Forms`
+
+**Advent of Code** — A collection of programming challenge solutions focused on algorithms, problem solving and data processing.
+
+`Java`
 
 ---
 
