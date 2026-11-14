@@ -48,10 +48,6 @@ I'm a software development student interested in building web, desktop and mobil
 
 `PHP` `MySQL` `JavaScript` `HTML` `CSS`
 
-**[ChessAI_v2](https://github.com/Tidiest/ChessAI_v2)** — Chess programming project exploring move generation, search algorithms and position evaluation.
-
-`C++`
-
 **Kayak Rental** — An ASP.NET Core MVC application for managing kayak inventory and rentals.
 
 `C#` `.NET` `ASP.NET Core MVC` `MySQL`
