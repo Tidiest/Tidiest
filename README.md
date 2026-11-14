@@ -58,6 +58,12 @@ I'm a software development student interested in building web, desktop and mobil
 
 ### Additional Projects
 
+**[Chess AI (2022)](https://github.com/Tidiest/Chess-v1-old-2022-)** — An experimental C++ chess application featuring a custom engine with Negamax search, Alpha-Beta pruning, move ordering and positional evaluation. Includes a graphical interface built with SFML and a ready-to-run Windows build.
+
+[Source code](https://github.com/Tidiest/Chess-v1-old-2022-) · [Download Windows ZIP](https://github.com/Tidiest/Chess-v1-old-2022-/archive/refs/heads/main.zip)
+
+`C++` `SFML` `Algorithms` `Game AI`
+
 **Java RPG** — A console-based RPG featuring character progression, combat, experience and stat management.
 
 `Java` `OOP`
